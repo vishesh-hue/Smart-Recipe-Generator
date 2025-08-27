@@ -1,11 +1,46 @@
-## Vision Provider (Gemini free tier preferred)
+Smart Recipe Generator
 
-Set up **Google Gemini API (free tier)**:
+Turn a fridge photo (or a few typed ingredients) into cookable recipes with steps, nutrition, filters, and smart substitutions.
 
-1. Go to Google AI Studio → create an API key.
-2. Add it to your env as `GEMINI_API_KEY`.
-3. (Optional fallback) Keep `HF_TOKEN` set if you want BLIP as backup.
+Features
 
-The app will use Gemini first, then fall back to Hugging Face if Gemini fails or is not configured.
+Image → ingredients (Gemini 1.5-Flash)
 
-Smart Recipe Generator v1.2 — expanded recipe database (~80). Use HF_TOKEN for photo detection.
+Optional BLIP fallback (Hugging Face)
+
+Dietary filters (veg, vegan, gluten-free…)
+
+Time & difficulty filters
+
+Serving size scaling
+
+Per-serving nutrition (kcal, P/C/F)
+
+Favorites ⭐ and ratings ★1–5
+
+“Suggestions for you” based on ratings
+
+80+ curated recipes across cuisines
+
+How it works
+
+We extract structured ingredients from photos, normalize names (e.g., mozzarella → cheese), then match against the recipe database by token coverage with a small penalty for missing items. Missing items trigger substitution suggestions.
+
+Run locally
+npm i
+npm run dev
+# http://localhost:3000 (health: /api/health)
+
+
+Create .env.local:
+
+GEMINI_API_KEY=your_google_ai_studio_key
+HF_TOKEN=your_huggingface_token   # optional
+
+Deploy
+
+Import the repo in Vercel, add the same environment variables (Production + Preview), and deploy. Check /api/health for { "gemini": true, "hf": true }.
+
+Tech
+
+Next.js 14 (App Router), TypeScript, Tailwind. Recipes stored as JSON; favorites/ratings in localStorage. Clean error states and loading indicators for a smooth UX.
