@@ -1,0 +1,4121 @@
+[
+  {
+    "id": "veg-stir-fry",
+    "title": "Veggie Stir-Fry",
+    "cuisine": "Asian",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "dairy-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "broccoli",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "soy sauce",
+        "qty": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "garlic",
+        "qty": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "ginger",
+        "qty": 1,
+        "unit": "tsp",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Heat oil in a pan.",
+      "Add garlic and onion; saut\u00e9 2 mins.",
+      "Add vegetables and stir-fry 5\u20137 mins.",
+      "Add soy sauce; toss and serve with rice or noodles."
+    ],
+    "nutrition_per_serving": {
+      "calories": 220,
+      "protein_g": 7,
+      "carbs_g": 28,
+      "fat_g": 9
+    }
+  },
+  {
+    "id": "chana-masala",
+    "title": "Chana Masala",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "ginger",
+        "qty": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "garam masala",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 onion, ginger, garlic.",
+      "Add tomatoes and spices; cook down.",
+      "Add chickpeas and simmer 10 mins.",
+      "Garnish with cilantro and serve."
+    ],
+    "nutrition_per_serving": {
+      "calories": 360,
+      "protein_g": 15,
+      "carbs_g": 55,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "paneer-tikka",
+    "title": "Paneer Tikka (Pan)",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "paneer",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "yogurt",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "garam masala",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix yogurt with spices; coat paneer and veggies.",
+      "Pan-sear until charred and cooked.",
+      "Serve with lemon and mint."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 24,
+      "carbs_g": 18,
+      "fat_g": 28
+    }
+  },
+  {
+    "id": "veg-pasta",
+    "title": "Tomato Basil Pasta",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "qty": 3,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "olive oil",
+        "qty": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "basil",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Cook pasta al dente.",
+      "Saut\u00e9 garlic, add chopped tomatoes; reduce.",
+      "Toss with pasta and basil; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 450,
+      "protein_g": 14,
+      "carbs_g": 70,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "tomato-soup",
+    "title": "Creamy Tomato Soup",
+    "cuisine": "Global",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tomato",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "cream",
+        "qty": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 onion and garlic.",
+      "Add tomatoes, simmer 10 mins.",
+      "Blend and stir in cream; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 220,
+      "protein_g": 5,
+      "carbs_g": 20,
+      "fat_g": 13
+    }
+  },
+  {
+    "id": "avocado-toast",
+    "title": "Avocado Toast",
+    "cuisine": "Global",
+    "servings": 1,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 2,
+        "unit": "slices"
+      },
+      {
+        "name": "avocado",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "lemon",
+        "qty": 0.25,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Toast bread.",
+      "Mash avocado with lemon; spread and season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 350,
+      "protein_g": 7,
+      "carbs_g": 35,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "omelette",
+    "title": "Masala Omelette",
+    "cuisine": "Indian",
+    "servings": 1,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "egg",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.25,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 0.25,
+        "unit": ""
+      },
+      {
+        "name": "green chili",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Beat eggs; mix chopped veggies.",
+      "Cook in pan until set."
+    ],
+    "nutrition_per_serving": {
+      "calories": 250,
+      "protein_g": 16,
+      "carbs_g": 5,
+      "fat_g": 18
+    }
+  },
+  {
+    "id": "chicken-salad",
+    "title": "Grilled Chicken Salad",
+    "cuisine": "American",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "dairy-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "lettuce",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cucumber",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Grill seasoned chicken; slice.",
+      "Toss veggies and add chicken; dress."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 30,
+      "carbs_g": 8,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "dal-tadka",
+    "title": "Dal Tadka",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "lentils",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "cumin",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Boil lentils until soft.",
+      "Temper spices with onion, garlic, tomato; mix with dal."
+    ],
+    "nutrition_per_serving": {
+      "calories": 280,
+      "protein_g": 15,
+      "carbs_g": 40,
+      "fat_g": 5
+    }
+  },
+  {
+    "id": "veg-biryani",
+    "title": "Vegetable Biryani",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 45,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "mixed vegetables",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "yogurt",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "garam masala",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Parboil rice.",
+      "Cook veggies with spices and yogurt.",
+      "Layer with rice and steam."
+    ],
+    "nutrition_per_serving": {
+      "calories": 500,
+      "protein_g": 10,
+      "carbs_g": 85,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "aloo-paratha",
+    "title": "Aloo Paratha",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 35,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "yogurt",
+        "qty": 50,
+        "unit": "g",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Make dough with flour and water.",
+      "Mash boiled potatoes with spices and onion.",
+      "Stuff and roll; cook on tawa."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 10,
+      "carbs_g": 70,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "smoothie-bowl",
+    "title": "Berry Smoothie Bowl",
+    "cuisine": "Global",
+    "servings": 1,
+    "time_min": 5,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "frozen berries",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "banana",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "yogurt",
+        "qty": 100,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Blend all until thick; top with granola."
+    ],
+    "nutrition_per_serving": {
+      "calories": 300,
+      "protein_g": 9,
+      "carbs_g": 60,
+      "fat_g": 4
+    }
+  },
+  {
+    "id": "pancakes",
+    "title": "Fluffy Pancakes",
+    "cuisine": "American",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "egg",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Whisk ingredients into batter.",
+      "Cook small rounds until bubbles form; flip."
+    ],
+    "nutrition_per_serving": {
+      "calories": 350,
+      "protein_g": 10,
+      "carbs_g": 55,
+      "fat_g": 8
+    }
+  },
+  {
+    "id": "shakshuka",
+    "title": "Shakshuka",
+    "cuisine": "Middle Eastern",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "egg",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Cook onion and pepper; add tomatoes.",
+      "Simmer and crack eggs; cover to set whites."
+    ],
+    "nutrition_per_serving": {
+      "calories": 300,
+      "protein_g": 18,
+      "carbs_g": 18,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "tofu-scramble",
+    "title": "Tofu Scramble",
+    "cuisine": "Global",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tofu",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "turmeric",
+        "qty": 0.5,
+        "unit": "tsp"
+      },
+      {
+        "name": "spinach",
+        "qty": 50,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Crumble tofu; saut\u00e9 with onions and turmeric.",
+      "Add spinach to wilt; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 220,
+      "protein_g": 18,
+      "carbs_g": 6,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "quinoa-salad",
+    "title": "Quinoa Salad",
+    "cuisine": "Global",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "quinoa",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cucumber",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Cook quinoa; cool.",
+      "Mix chopped veggies and lemon dressing."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 10,
+      "carbs_g": 50,
+      "fat_g": 8
+    }
+  },
+  {
+    "id": "chana-chaat",
+    "title": "Chana Chaat",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Mix all with spices and lemon; toss."
+    ],
+    "nutrition_per_serving": {
+      "calories": 300,
+      "protein_g": 13,
+      "carbs_g": 45,
+      "fat_g": 5
+    }
+  },
+  {
+    "id": "fish-tacos",
+    "title": "Fish Tacos (Pan)",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "fish",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "tortillas",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "cabbage",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Season and pan-cook fish.",
+      "Assemble with cabbage and lime."
+    ],
+    "nutrition_per_serving": {
+      "calories": 380,
+      "protein_g": 28,
+      "carbs_g": 35,
+      "fat_g": 14
+    }
+  },
+  {
+    "id": "fried-rice",
+    "title": "Egg Fried Rice",
+    "cuisine": "Asian",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "peas",
+        "qty": 50,
+        "unit": "g"
+      },
+      {
+        "name": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Scramble eggs; set aside.",
+      "Stir-fry rice with veggies; add eggs and soy sauce."
+    ],
+    "nutrition_per_serving": {
+      "calories": 450,
+      "protein_g": 14,
+      "carbs_g": 70,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "buddha-bowl",
+    "title": "Buddha Bowl",
+    "cuisine": "Global",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "chickpeas",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "spinach",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "avocado",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Cook rice; arrange with toppings and dressing."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 15,
+      "carbs_g": 70,
+      "fat_g": 18
+    }
+  },
+  {
+    "id": "veg-fried-noodles",
+    "title": "Veg Hakka Noodles",
+    "cuisine": "Asian",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "noodles",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cabbage",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Boil noodles; stir-fry veggies.",
+      "Toss noodles with sauces."
+    ],
+    "nutrition_per_serving": {
+      "calories": 480,
+      "protein_g": 12,
+      "carbs_g": 75,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "caprese-salad",
+    "title": "Caprese Salad",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "mozzarella",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "basil",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Slice tomato and mozzarella; layer with basil and drizzle olive oil."
+    ],
+    "nutrition_per_serving": {
+      "calories": 300,
+      "protein_g": 15,
+      "carbs_g": 8,
+      "fat_g": 22
+    }
+  },
+  {
+    "id": "margherita-pizza",
+    "title": "Margherita Pizza (Pan/Oven)",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 35,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "yeast",
+        "qty": 3,
+        "unit": "g",
+        "optional": true
+      },
+      {
+        "name": "olive oil",
+        "qty": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "mozzarella",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "basil",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Make a quick dough with flour, yeast (or baking powder), water, salt, and oil; rest 10\u201315 mins.",
+      "Spread dough on pan or tray; top with crushed tomato, mozzarella, and basil.",
+      "Cook on stovetop covered (low heat) 10\u201315 mins or bake at 220\u00b0C for ~12 mins until cheese melts."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 19,
+      "carbs_g": 70,
+      "fat_g": 17
+    }
+  },
+  {
+    "id": "masala-dosa",
+    "title": "Masala Dosa",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 40,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "lentils",
+        "qty": 50,
+        "unit": "g"
+      },
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "chili",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Grind soaked rice and lentils; ferment or rest.",
+      "Cook dosa on tawa.",
+      "Stuff with spiced potato masala and fold."
+    ],
+    "nutrition_per_serving": {
+      "calories": 450,
+      "protein_g": 10,
+      "carbs_g": 80,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "idli-sambar",
+    "title": "Idli with Sambar",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 45,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "lentils",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Steam fermented rice-lentil batter into idlis.",
+      "Boil lentils; add veggies and spices for sambar.",
+      "Serve hot with idli."
+    ],
+    "nutrition_per_serving": {
+      "calories": 380,
+      "protein_g": 12,
+      "carbs_g": 70,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "rasam",
+    "title": "Tomato Rasam",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tomato",
+        "qty": 3,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 2,
+        "unit": "cloves"
+      },
+      {
+        "name": "coriander",
+        "qty": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "cumin",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Crush tomatoes with spices.",
+      "Boil briefly; temper mustard, cumin, garlic.",
+      "Garnish with cilantro."
+    ],
+    "nutrition_per_serving": {
+      "calories": 90,
+      "protein_g": 3,
+      "carbs_g": 15,
+      "fat_g": 2
+    }
+  },
+  {
+    "id": "palak-paneer",
+    "title": "Palak Paneer",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "spinach",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "paneer",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "cream",
+        "qty": 30,
+        "unit": "ml",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Blanch and blend spinach.",
+      "Saut\u00e9 aromatics; add paneer and spinach puree.",
+      "Finish with cream."
+    ],
+    "nutrition_per_serving": {
+      "calories": 430,
+      "protein_g": 22,
+      "carbs_g": 18,
+      "fat_g": 28
+    }
+  },
+  {
+    "id": "butter-chicken",
+    "title": "Butter Chicken",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 40,
+    "difficulty": "medium",
+    "dietary": [
+      "gluten-free",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "qty": 3,
+        "unit": ""
+      },
+      {
+        "name": "butter",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "cream",
+        "qty": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Marinate chicken; cook till done.",
+      "Simmer tomato-butter sauce; add chicken and cream."
+    ],
+    "nutrition_per_serving": {
+      "calories": 600,
+      "protein_g": 35,
+      "carbs_g": 18,
+      "fat_g": 40
+    }
+  },
+  {
+    "id": "chicken-curry",
+    "title": "Chicken Curry",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 35,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "dairy-free",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 500,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 4,
+        "unit": "cloves"
+      }
+    ],
+    "steps": [
+      "Brown onion and garlic.",
+      "Add tomatoes and spices; cook.",
+      "Add chicken; simmer until tender."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 30,
+      "carbs_g": 10,
+      "fat_g": 24
+    }
+  },
+  {
+    "id": "rajma",
+    "title": "Rajma (Kidney Beans Curry)",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 40,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "beans",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      }
+    ],
+    "steps": [
+      "Cook soaked beans until tender.",
+      "Saut\u00e9 onion, garlic; add tomato and spices.",
+      "Combine and simmer."
+    ],
+    "nutrition_per_serving": {
+      "calories": 360,
+      "protein_g": 16,
+      "carbs_g": 55,
+      "fat_g": 5
+    }
+  },
+  {
+    "id": "kadai-paneer",
+    "title": "Kadai Paneer",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "paneer",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 onions and peppers with spices.",
+      "Add paneer and tomato gravy; simmer."
+    ],
+    "nutrition_per_serving": {
+      "calories": 480,
+      "protein_g": 22,
+      "carbs_g": 20,
+      "fat_g": 30
+    }
+  },
+  {
+    "id": "paneer-butter-masala",
+    "title": "Paneer Butter Masala",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 35,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "paneer",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "qty": 3,
+        "unit": ""
+      },
+      {
+        "name": "cream",
+        "qty": 50,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Blend tomato base; simmer with butter.",
+      "Add paneer and cream; cook briefly."
+    ],
+    "nutrition_per_serving": {
+      "calories": 560,
+      "protein_g": 20,
+      "carbs_g": 20,
+      "fat_g": 40
+    }
+  },
+  {
+    "id": "dal-makhani",
+    "title": "Dal Makhani",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 60,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "lentils",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "qty": 25,
+        "unit": "g"
+      },
+      {
+        "name": "cream",
+        "qty": 40,
+        "unit": "ml"
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Cook lentils till creamy.",
+      "Add tomato, spices, butter, and cream; simmer."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 20,
+      "carbs_g": 50,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "poha",
+    "title": "Kanda Poha",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "potato",
+        "qty": 1,
+        "unit": "",
+        "optional": true
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Rinse poha; drain.",
+      "Temper spices with onion and optional potato; toss poha.",
+      "Finish with lemon and cilantro."
+    ],
+    "nutrition_per_serving": {
+      "calories": 380,
+      "protein_g": 6,
+      "carbs_g": 70,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "upma",
+    "title": "Rava Upma",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "wheat flour",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Roast rava (semolina).",
+      "Saut\u00e9 veggies; add water and rava; stir till fluffy."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 10,
+      "carbs_g": 70,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "pav-bhaji",
+    "title": "Pav Bhaji",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 35,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 6,
+        "unit": "rolls"
+      },
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "peas",
+        "qty": 80,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Boil and mash veggies with spices.",
+      "Toast pav with butter and serve with bhaji."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 12,
+      "carbs_g": 80,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "vada-pav",
+    "title": "Vada Pav",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 4,
+        "unit": "rolls"
+      },
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "chili",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Make spiced potato balls; pan-fry.",
+      "Assemble in pav with chutneys."
+    ],
+    "nutrition_per_serving": {
+      "calories": 480,
+      "protein_g": 10,
+      "carbs_g": 70,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "lemon-rice",
+    "title": "Lemon Rice",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "lemon",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "chili",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Temper mustard, chili.",
+      "Toss with cooked rice and lemon juice."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 7,
+      "carbs_g": 90,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "jeera-rice",
+    "title": "Jeera Rice",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 18,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "cumin",
+        "qty": 1,
+        "unit": "tsp"
+      },
+      {
+        "name": "butter",
+        "qty": 10,
+        "unit": "g",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Temper cumin in ghee/oil.",
+      "Toss with cooked rice; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 380,
+      "protein_g": 6,
+      "carbs_g": 85,
+      "fat_g": 5
+    }
+  },
+  {
+    "id": "aloo-gobi",
+    "title": "Aloo Gobi",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "cauliflower",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 spices and onions.",
+      "Add potato and cauliflower; cook until tender."
+    ],
+    "nutrition_per_serving": {
+      "calories": 300,
+      "protein_g": 8,
+      "carbs_g": 45,
+      "fat_g": 8
+    }
+  },
+  {
+    "id": "bhindi-masala",
+    "title": "Bhindi Masala",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "okra",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 okra separately.",
+      "Cook onion-tomato masala; combine with okra."
+    ],
+    "nutrition_per_serving": {
+      "calories": 260,
+      "protein_g": 6,
+      "carbs_g": 20,
+      "fat_g": 14
+    }
+  },
+  {
+    "id": "egg-curry",
+    "title": "Egg Curry",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "egg",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Boil eggs; peel.",
+      "Simmer onion-tomato gravy; add eggs."
+    ],
+    "nutrition_per_serving": {
+      "calories": 380,
+      "protein_g": 22,
+      "carbs_g": 12,
+      "fat_g": 24
+    }
+  },
+  {
+    "id": "fish-curry",
+    "title": "Fish Curry",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "fish",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "coconut milk",
+        "qty": 150,
+        "unit": "ml",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Simmer spices with onion and tomato.",
+      "Add fish and coconut milk; cook gently."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 32,
+      "carbs_g": 8,
+      "fat_g": 28
+    }
+  },
+  {
+    "id": "tandoori-chicken",
+    "title": "Tandoori Chicken (Oven/Pan)",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 35,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 400,
+        "unit": "g"
+      },
+      {
+        "name": "yogurt",
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Marinate in yogurt and spices.",
+      "Roast or pan-cook until charred and done."
+    ],
+    "nutrition_per_serving": {
+      "calories": 460,
+      "protein_g": 42,
+      "carbs_g": 6,
+      "fat_g": 28
+    }
+  },
+  {
+    "id": "chole-bhature",
+    "title": "Chole Bhature",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 45,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "qty": 350,
+        "unit": "g"
+      },
+      {
+        "name": "wheat flour",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "yogurt",
+        "qty": 60,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Cook spiced chickpea curry.",
+      "Make and fry bhature (or pan-cook)."
+    ],
+    "nutrition_per_serving": {
+      "calories": 680,
+      "protein_g": 18,
+      "carbs_g": 95,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "aglio-olio",
+    "title": "Spaghetti Aglio e Olio",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "qty": 4,
+        "unit": "cloves"
+      },
+      {
+        "name": "olive oil",
+        "qty": 3,
+        "unit": "tbsp"
+      },
+      {
+        "name": "chili",
+        "qty": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Cook pasta.",
+      "Saut\u00e9 garlic in oil; toss pasta with chili and parsley."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 12,
+      "carbs_g": 70,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "arrabbiata",
+    "title": "Penne Arrabbiata",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "qty": 3,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "chili",
+        "qty": 0.5,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Cook pasta.",
+      "Simmer spicy tomato-garlic sauce; toss."
+    ],
+    "nutrition_per_serving": {
+      "calories": 480,
+      "protein_g": 13,
+      "carbs_g": 72,
+      "fat_g": 12
+    }
+  },
+  {
+    "id": "pesto-pasta",
+    "title": "Pesto Pasta",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "basil",
+        "qty": 2,
+        "unit": "handfuls"
+      },
+      {
+        "name": "olive oil",
+        "qty": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "cheese",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Cook pasta.",
+      "Blend basil, oil, cheese; toss with pasta."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 14,
+      "carbs_g": 72,
+      "fat_g": 18
+    }
+  },
+  {
+    "id": "fettuccine-alfredo",
+    "title": "Fettuccine Alfredo",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "qty": 30,
+        "unit": "g"
+      },
+      {
+        "name": "cream",
+        "qty": 80,
+        "unit": "ml"
+      },
+      {
+        "name": "cheese",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Cook pasta.",
+      "Simmer butter and cream; melt cheese; combine."
+    ],
+    "nutrition_per_serving": {
+      "calories": 720,
+      "protein_g": 18,
+      "carbs_g": 70,
+      "fat_g": 40
+    }
+  },
+  {
+    "id": "mushroom-risotto",
+    "title": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 35,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mushrooms",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "cheese",
+        "qty": 30,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 onion and mushrooms.",
+      "Add rice; ladle stock until creamy; finish with cheese."
+    ],
+    "nutrition_per_serving": {
+      "calories": 560,
+      "protein_g": 14,
+      "carbs_g": 86,
+      "fat_g": 14
+    }
+  },
+  {
+    "id": "minestrone",
+    "title": "Minestrone Soup",
+    "cuisine": "Italian",
+    "servings": 3,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "beans",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "pasta",
+        "qty": 80,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 vegetables; add tomato and stock.",
+      "Simmer with beans and pasta."
+    ],
+    "nutrition_per_serving": {
+      "calories": 260,
+      "protein_g": 10,
+      "carbs_g": 40,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "bruschetta",
+    "title": "Bruschetta",
+    "cuisine": "Italian",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 4,
+        "unit": "slices"
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "garlic",
+        "qty": 1,
+        "unit": "clove"
+      },
+      {
+        "name": "basil",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Toast bread with garlic.",
+      "Top with tomato-basil mixture."
+    ],
+    "nutrition_per_serving": {
+      "calories": 300,
+      "protein_g": 8,
+      "carbs_g": 40,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "guacamole",
+    "title": "Guacamole",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "avocado",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.25,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Mash avocado; fold in chopped veg and lime; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 5,
+      "carbs_g": 18,
+      "fat_g": 26
+    }
+  },
+  {
+    "id": "pico-gallo",
+    "title": "Pico de Gallo",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": 1,
+        "unit": "handful"
+      },
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Combine chopped ingredients; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 80,
+      "protein_g": 2,
+      "carbs_g": 16,
+      "fat_g": 0
+    }
+  },
+  {
+    "id": "veg-quesadilla",
+    "title": "Veg Quesadilla",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tortillas",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "cheese",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Stuff tortillas with veggies and cheese; toast until melted."
+    ],
+    "nutrition_per_serving": {
+      "calories": 560,
+      "protein_g": 22,
+      "carbs_g": 60,
+      "fat_g": 24
+    }
+  },
+  {
+    "id": "bean-burrito",
+    "title": "Bean Burrito",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tortillas",
+        "qty": 4,
+        "unit": ""
+      },
+      {
+        "name": "beans",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "rice",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "cheese",
+        "qty": 60,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Warm tortillas; fill with beans, rice, cheese, and salsa; roll."
+    ],
+    "nutrition_per_serving": {
+      "calories": 650,
+      "protein_g": 22,
+      "carbs_g": 95,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "chicken-fajitas",
+    "title": "Chicken Fajitas",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "bell pepper",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Sear marinated chicken and veggies.",
+      "Serve with lime and tortillas (corn for GF)."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 38,
+      "carbs_g": 20,
+      "fat_g": 26
+    }
+  },
+  {
+    "id": "veggie-enchiladas",
+    "title": "Veg Enchiladas",
+    "cuisine": "Mexican",
+    "servings": 2,
+    "time_min": 35,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tortillas",
+        "qty": 6,
+        "unit": ""
+      },
+      {
+        "name": "beans",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "cheese",
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Fill tortillas, roll, cover with sauce and cheese; bake/pan-cook until bubbly."
+    ],
+    "nutrition_per_serving": {
+      "calories": 680,
+      "protein_g": 26,
+      "carbs_g": 80,
+      "fat_g": 24
+    }
+  },
+  {
+    "id": "grilled-cheese",
+    "title": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "servings": 1,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 2,
+        "unit": "slices"
+      },
+      {
+        "name": "cheese",
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "qty": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Butter bread; pan-toast with cheese until melty."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 32,
+      "fat_g": 24
+    }
+  },
+  {
+    "id": "mac-cheese",
+    "title": "Mac and Cheese",
+    "cuisine": "American",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "pasta",
+        "qty": 180,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "cheese",
+        "qty": 120,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "qty": 20,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Cook pasta.",
+      "Make cheese sauce; combine and bake optional."
+    ],
+    "nutrition_per_serving": {
+      "calories": 780,
+      "protein_g": 26,
+      "carbs_g": 86,
+      "fat_g": 34
+    }
+  },
+  {
+    "id": "caesar-salad",
+    "title": "Caesar Salad (veg)",
+    "cuisine": "American",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "lettuce",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "bread",
+        "qty": 2,
+        "unit": "slices"
+      },
+      {
+        "name": "cheese",
+        "qty": 40,
+        "unit": "g"
+      },
+      {
+        "name": "yogurt",
+        "qty": 60,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Toast croutons.",
+      "Toss lettuce with yogurt-parmesan dressing; top with croutons."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 14,
+      "carbs_g": 24,
+      "fat_g": 18
+    }
+  },
+  {
+    "id": "chicken-noodle-soup",
+    "title": "Chicken Noodle Soup",
+    "cuisine": "American",
+    "servings": 3,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "noodles",
+        "qty": 120,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Simmer chicken and vegetables.",
+      "Add noodles; cook until tender."
+    ],
+    "nutrition_per_serving": {
+      "calories": 280,
+      "protein_g": 22,
+      "carbs_g": 30,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "veggie-burger",
+    "title": "Veggie Burger",
+    "cuisine": "American",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 2,
+        "unit": "buns"
+      },
+      {
+        "name": "beans",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "cheese",
+        "qty": 40,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Form patties from beans and spices; pan-cook.",
+      "Assemble burgers with toppings."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 20,
+      "carbs_g": 70,
+      "fat_g": 14
+    }
+  },
+  {
+    "id": "coleslaw",
+    "title": "Coleslaw",
+    "cuisine": "American",
+    "servings": 3,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "cabbage",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "yogurt",
+        "qty": 120,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Shred veg; mix with dressing; chill."
+    ],
+    "nutrition_per_serving": {
+      "calories": 160,
+      "protein_g": 6,
+      "carbs_g": 20,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "hummus",
+    "title": "Hummus",
+    "cuisine": "Middle Eastern",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "qty": 1,
+        "unit": "clove"
+      },
+      {
+        "name": "olive oil",
+        "qty": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Blend all until smooth; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 12,
+      "carbs_g": 30,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "falafel",
+    "title": "Falafel (Pan)",
+    "cuisine": "Middle Eastern",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chickpeas",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Pulse ingredients; form patties; pan-fry."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 16,
+      "carbs_g": 40,
+      "fat_g": 18
+    }
+  },
+  {
+    "id": "tabbouleh",
+    "title": "Tabbouleh",
+    "cuisine": "Middle Eastern",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "cilantro",
+        "qty": 1,
+        "unit": "handful"
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Chop finely; toss with lemon and olive oil."
+    ],
+    "nutrition_per_serving": {
+      "calories": 160,
+      "protein_g": 4,
+      "carbs_g": 20,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "baba-ganoush",
+    "title": "Baba Ganoush",
+    "cuisine": "Middle Eastern",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "dairy-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "eggplant",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "qty": 1,
+        "unit": "clove"
+      },
+      {
+        "name": "olive oil",
+        "qty": 1,
+        "unit": "tbsp"
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Roast eggplant; blend with garlic, lemon, oil."
+    ],
+    "nutrition_per_serving": {
+      "calories": 220,
+      "protein_g": 5,
+      "carbs_g": 16,
+      "fat_g": 14
+    }
+  },
+  {
+    "id": "greek-salad",
+    "title": "Greek Salad",
+    "cuisine": "Mediterranean",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "cucumber",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "olives",
+        "qty": 12,
+        "unit": ""
+      },
+      {
+        "name": "cheese",
+        "qty": 60,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Chop veg; toss with feta and olive oil."
+    ],
+    "nutrition_per_serving": {
+      "calories": 280,
+      "protein_g": 10,
+      "carbs_g": 16,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "teriyaki-chicken",
+    "title": "Teriyaki Chicken Bowl",
+    "cuisine": "Japanese",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "soy sauce",
+        "qty": 2,
+        "unit": "tbsp"
+      },
+      {
+        "name": "rice",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "broccoli",
+        "qty": 150,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Sear chicken; simmer with soy sauce and sweetener.",
+      "Serve over rice with steamed broccoli."
+    ],
+    "nutrition_per_serving": {
+      "calories": 600,
+      "protein_g": 38,
+      "carbs_g": 70,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "mapo-tofu-veg",
+    "title": "Mapo Tofu (Veg)",
+    "cuisine": "Chinese",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tofu",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "mushrooms",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "garlic",
+        "qty": 3,
+        "unit": "cloves"
+      },
+      {
+        "name": "chili",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Saut\u00e9 aromatics and mushrooms.",
+      "Add tofu and sauce; simmer."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 20,
+      "carbs_g": 12,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "miso-soup",
+    "title": "Miso Soup (veg)",
+    "cuisine": "Japanese",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "tofu",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "spinach",
+        "qty": 50,
+        "unit": "g"
+      },
+      {
+        "name": "soy sauce",
+        "qty": 0.5,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer broth; add tofu and greens; season lightly."
+    ],
+    "nutrition_per_serving": {
+      "calories": 120,
+      "protein_g": 10,
+      "carbs_g": 6,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "veg-ramen",
+    "title": "Veg Ramen",
+    "cuisine": "Japanese",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "noodles",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mushrooms",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "spinach",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Simmer broth with mushrooms.",
+      "Cook noodles; assemble bowls with toppings."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 16,
+      "carbs_g": 80,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "cucumber-rolls",
+    "title": "Cucumber Sushi Rolls",
+    "cuisine": "Japanese",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "cucumber",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "vinegar",
+        "qty": 20,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Cook rice; season; roll with cucumber; slice."
+    ],
+    "nutrition_per_serving": {
+      "calories": 360,
+      "protein_g": 6,
+      "carbs_g": 78,
+      "fat_g": 2
+    }
+  },
+  {
+    "id": "orange-chicken",
+    "title": "Orange Chicken (Pan)",
+    "cuisine": "Chinese",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "orange",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "soy sauce",
+        "qty": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Pan-fry chicken; toss with orange-soy glaze."
+    ],
+    "nutrition_per_serving": {
+      "calories": 560,
+      "protein_g": 36,
+      "carbs_g": 40,
+      "fat_g": 20
+    }
+  },
+  {
+    "id": "pad-thai-veg",
+    "title": "Pad Thai (Veg)",
+    "cuisine": "Thai",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "noodles",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tofu",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "qty": 1,
+        "unit": "",
+        "optional": true
+      },
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Soak noodles; stir-fry sauce, tofu, noodles.",
+      "Add optional egg; finish with lime."
+    ],
+    "nutrition_per_serving": {
+      "calories": 520,
+      "protein_g": 20,
+      "carbs_g": 82,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "green-curry-veg",
+    "title": "Thai Green Curry (Veg)",
+    "cuisine": "Thai",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "medium",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "coconut milk",
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tofu",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "basil",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Simmer curry paste with coconut milk.",
+      "Add veggies and tofu; cook until tender."
+    ],
+    "nutrition_per_serving": {
+      "calories": 540,
+      "protein_g": 18,
+      "carbs_g": 20,
+      "fat_g": 42
+    }
+  },
+  {
+    "id": "red-curry-chicken",
+    "title": "Thai Red Curry Chicken",
+    "cuisine": "Thai",
+    "servings": 2,
+    "time_min": 30,
+    "difficulty": "medium",
+    "dietary": [
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chicken",
+        "qty": 300,
+        "unit": "g"
+      },
+      {
+        "name": "coconut milk",
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "bell pepper",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Simmer curry paste with coconut milk; add chicken and peppers."
+    ],
+    "nutrition_per_serving": {
+      "calories": 620,
+      "protein_g": 36,
+      "carbs_g": 16,
+      "fat_g": 44
+    }
+  },
+  {
+    "id": "tom-yum",
+    "title": "Tom Yum Soup",
+    "cuisine": "Thai",
+    "servings": 2,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "fish",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "mushrooms",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "chili",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Simmer broth with aromatics; add fish and mushrooms; finish with lime."
+    ],
+    "nutrition_per_serving": {
+      "calories": 220,
+      "protein_g": 20,
+      "carbs_g": 8,
+      "fat_g": 8
+    }
+  },
+  {
+    "id": "mango-sticky-rice",
+    "title": "Mango Sticky Rice",
+    "cuisine": "Thai",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 200,
+        "unit": "g"
+      },
+      {
+        "name": "coconut milk",
+        "qty": 150,
+        "unit": "ml"
+      },
+      {
+        "name": "mango",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Cook sticky rice; mix coconut milk and sugar; serve with mango."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 5,
+      "carbs_g": 80,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "oats-porridge",
+    "title": "Oats Porridge",
+    "cuisine": "Global",
+    "servings": 1,
+    "time_min": 7,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "oats",
+        "qty": 50,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "qty": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "banana",
+        "qty": 0.5,
+        "unit": "",
+        "optional": true
+      }
+    ],
+    "steps": [
+      "Simmer oats in milk; sweeten to taste; add fruit."
+    ],
+    "nutrition_per_serving": {
+      "calories": 260,
+      "protein_g": 9,
+      "carbs_g": 40,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "chia-pudding",
+    "title": "Chia Pudding",
+    "cuisine": "Global",
+    "servings": 1,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "chia seeds",
+        "qty": 25,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "qty": 200,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Mix and refrigerate until set; top with fruit."
+    ],
+    "nutrition_per_serving": {
+      "calories": 220,
+      "protein_g": 6,
+      "carbs_g": 20,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "granola-parfait",
+    "title": "Granola Parfait",
+    "cuisine": "Global",
+    "servings": 1,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "yogurt",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "granola",
+        "qty": 60,
+        "unit": "g"
+      },
+      {
+        "name": "berries",
+        "qty": 80,
+        "unit": "g"
+      }
+    ],
+    "steps": [
+      "Layer yogurt, granola, and fruit in a glass."
+    ],
+    "nutrition_per_serving": {
+      "calories": 320,
+      "protein_g": 12,
+      "carbs_g": 40,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "french-toast",
+    "title": "French Toast",
+    "cuisine": "Global",
+    "servings": 1,
+    "time_min": 12,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 2,
+        "unit": "slices"
+      },
+      {
+        "name": "egg",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "milk",
+        "qty": 60,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Whisk egg and milk; dip bread; pan-cook till golden."
+    ],
+    "nutrition_per_serving": {
+      "calories": 330,
+      "protein_g": 12,
+      "carbs_g": 40,
+      "fat_g": 10
+    }
+  },
+  {
+    "id": "pani-puri",
+    "title": "Pani Puri (assembly)",
+    "cuisine": "Indian",
+    "servings": 3,
+    "time_min": 20,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "bread",
+        "qty": 12,
+        "unit": "puris"
+      },
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "chickpeas",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "mint",
+        "qty": 1,
+        "unit": "handful"
+      }
+    ],
+    "steps": [
+      "Make tangy mint water; fill puris with potato and chickpeas; serve immediately."
+    ],
+    "nutrition_per_serving": {
+      "calories": 420,
+      "protein_g": 10,
+      "carbs_g": 72,
+      "fat_g": 6
+    }
+  },
+  {
+    "id": "bhel-puri",
+    "title": "Bhel Puri",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "puffed rice",
+        "qty": 80,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "tomato",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Mix puffed rice with chopped veg and chutneys; toss and serve."
+    ],
+    "nutrition_per_serving": {
+      "calories": 260,
+      "protein_g": 6,
+      "carbs_g": 50,
+      "fat_g": 4
+    }
+  },
+  {
+    "id": "kitchari",
+    "title": "Moong Dal Khichdi",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 25,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "gluten-free",
+      "egg-free",
+      "nut-free"
+    ],
+    "ingredients": [
+      {
+        "name": "rice",
+        "qty": 150,
+        "unit": "g"
+      },
+      {
+        "name": "lentils",
+        "qty": 100,
+        "unit": "g"
+      },
+      {
+        "name": "cumin",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Cook rice and lentils together; temper cumin; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 380,
+      "protein_g": 14,
+      "carbs_g": 70,
+      "fat_g": 4
+    }
+  },
+  {
+    "id": "lentil-soup",
+    "title": "Lentil Soup",
+    "cuisine": "Global",
+    "servings": 3,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "lentils",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "onion",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      }
+    ],
+    "steps": [
+      "Simmer lentils with aromatics until tender; season."
+    ],
+    "nutrition_per_serving": {
+      "calories": 260,
+      "protein_g": 16,
+      "carbs_g": 40,
+      "fat_g": 2
+    }
+  },
+  {
+    "id": "veg-stew",
+    "title": "Vegetable Stew (coconut)",
+    "cuisine": "Global",
+    "servings": 3,
+    "time_min": 30,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "potato",
+        "qty": 2,
+        "unit": ""
+      },
+      {
+        "name": "carrot",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "coconut milk",
+        "qty": 200,
+        "unit": "ml"
+      }
+    ],
+    "steps": [
+      "Simmer vegetables in coconut milk with spices."
+    ],
+    "nutrition_per_serving": {
+      "calories": 280,
+      "protein_g": 6,
+      "carbs_g": 26,
+      "fat_g": 16
+    }
+  },
+  {
+    "id": "beet-salad",
+    "title": "Beetroot Salad",
+    "cuisine": "Global",
+    "servings": 2,
+    "time_min": 15,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "beetroot",
+        "qty": 250,
+        "unit": "g"
+      },
+      {
+        "name": "lemon",
+        "qty": 0.5,
+        "unit": ""
+      },
+      {
+        "name": "olive oil",
+        "qty": 1,
+        "unit": "tbsp"
+      }
+    ],
+    "steps": [
+      "Boil or roast beets; slice and dress with lemon and oil."
+    ],
+    "nutrition_per_serving": {
+      "calories": 160,
+      "protein_g": 4,
+      "carbs_g": 28,
+      "fat_g": 4
+    }
+  },
+  {
+    "id": "masala-chai",
+    "title": "Masala Chai",
+    "cuisine": "Indian",
+    "servings": 2,
+    "time_min": 10,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "nut-free",
+      "egg-free"
+    ],
+    "ingredients": [
+      {
+        "name": "milk",
+        "qty": 300,
+        "unit": "ml"
+      },
+      {
+        "name": "tea",
+        "qty": 2,
+        "unit": "tsp"
+      },
+      {
+        "name": "ginger",
+        "qty": 1,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Boil water with spices; add tea and milk; simmer; strain."
+    ],
+    "nutrition_per_serving": {
+      "calories": 120,
+      "protein_g": 6,
+      "carbs_g": 16,
+      "fat_g": 4
+    }
+  },
+  {
+    "id": "lime-soda",
+    "title": "Lime Soda",
+    "cuisine": "Global",
+    "servings": 2,
+    "time_min": 5,
+    "difficulty": "easy",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free",
+      "egg-free",
+      "nut-free",
+      "dairy-free"
+    ],
+    "ingredients": [
+      {
+        "name": "lime",
+        "qty": 1,
+        "unit": ""
+      },
+      {
+        "name": "sugar",
+        "qty": 2,
+        "unit": "tsp"
+      }
+    ],
+    "steps": [
+      "Mix lime juice, sugar, and chilled soda; serve."
+    ],
+    "nutrition_per_serving": {
+      "calories": 60,
+      "protein_g": 0,
+      "carbs_g": 12,
+      "fat_g": 0
+    }
+  }
+]
