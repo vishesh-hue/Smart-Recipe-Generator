@@ -1,46 +1,22 @@
-Smart Recipe Generator
+# Smart Recipe Generator
 
-Turn a fridge photo (or a few typed ingredients) into cookable recipes with steps, nutrition, filters, and smart substitutions.
+Turn a fridge photo (or a few typed ingredients) into **cookable recipes** with clear steps, nutrition, filters, and smart substitutions.
 
-Features
+## Features
 
-Image → ingredients (Gemini 1.5-Flash)
+* Image → ingredients via **Gemini 1.5-Flash** (free tier)
+* Optional **Hugging Face BLIP** fallback
+* Dietary filters (vegetarian, vegan, gluten-free, etc.)
+* Time & difficulty filters
+* Serving size scaling
+* Per-serving nutrition (kcal, protein, carbs, fat)
+* ⭐ Favorites, ★ ratings, and personalized suggestions
+* **80+** curated recipes across cuisines
 
-Optional BLIP fallback (Hugging Face)
+## Approach
 
-Dietary filters (veg, vegan, gluten-free…)
+The app focuses on *cookability* and resilient UX. Photos are processed by Gemini 1.5-Flash with a strict prompt to return compact JSON `{ingredients[], caption}`; if unavailable, BLIP captioning provides a fallback signal. Ingredient names are normalized and de-noised (e.g., *mozzarella → cheese*, *capsicum → bell pepper*), then tokenized. Matching scores coverage of recipe tokens present in user input with a small penalty per missing unique item; filters (dietary, time, difficulty) apply **before** scoring. Each recipe includes step-by-step instructions and per-serving nutrition; changing servings scales both quantities and macros. Missing items trigger a small substitution dictionary (e.g., milk → oat/almond/soy; paneer → tofu). Favorites and ratings persist in `localStorage`, and “Suggestions for you” surface cuisines you rate highly. Error states are explicit (vision/match), with loading indicators and empty states tuned for mobile.
 
-Time & difficulty filters
+## Tech
 
-Serving size scaling
-
-Per-serving nutrition (kcal, P/C/F)
-
-Favorites ⭐ and ratings ★1–5
-
-“Suggestions for you” based on ratings
-
-80+ curated recipes across cuisines
-
-How it works
-
-We extract structured ingredients from photos, normalize names (e.g., mozzarella → cheese), then match against the recipe database by token coverage with a small penalty for missing items. Missing items trigger substitution suggestions.
-
-Run locally
-npm i
-npm run dev
-# http://localhost:3000 (health: /api/health)
-
-
-Create .env.local:
-
-GEMINI_API_KEY=your_google_ai_studio_key
-HF_TOKEN=your_huggingface_token   # optional
-
-Deploy
-
-Import the repo in Vercel, add the same environment variables (Production + Preview), and deploy. Check /api/health for { "gemini": true, "hf": true }.
-
-Tech
-
-Next.js 14 (App Router), TypeScript, Tailwind. Recipes stored as JSON; favorites/ratings in localStorage. Clean error states and loading indicators for a smooth UX.
+**Next.js 14** (App Router), **TypeScript**, **Tailwind**. Static JSON recipe database; UI state in the client; lightweight API routes for vision, matching, health, and data.
